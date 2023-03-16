@@ -1,0 +1,71 @@
+src/ast/array-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/array-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/array-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/assign-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/assign-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/assign-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/default-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/field-var.cc:  // FIXME: Some code was deleted here.
+src/ast/field-var.hh:    // FIXME: Some code was deleted here.
+src/ast/field-var.hxx:  // FIXME: Some code was deleted here.
+src/ast/if-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/if-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/if-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/let-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/let-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/let-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/method-call-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/method-call-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/method-call-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/object-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/object-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/object-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/object-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/object-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/object-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/object-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/object-visitor.hxx:    // FIXME: Some code was deleted here.
+src/ast/op-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/pretty-printer.cc:    // FIXME: Some code was deleted here.
+src/ast/pretty-printer.cc:  // FIXME: Some code was deleted here.
+src/ast/pretty-printer.hh:    // FIXME: Some code was deleted here.
+src/ast/record-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/record-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/record-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/record-ty.cc:  // FIXME: Some code was deleted here.
+src/ast/record-ty.hh:    // FIXME: Some code was deleted here.
+src/ast/record-ty.hxx:  // FIXME: Some code was deleted here.
+src/ast/seq-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/seq-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/seq-exp.hxx:  // FIXME: Some code was deleted here.
+src/ast/string-exp.cc:  // FIXME: Some code was deleted here.
+src/ast/string-exp.hh:    // FIXME: Some code was deleted here.
+src/ast/string-exp.hxx:  // FIXME: Some code was deleted here.
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (Other directives).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (Printers and destructors).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (Priorities/associativities).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (More %types).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (Priorities/associativities).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (Other declarations).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (More rules).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (More rules).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here (More rules).
+src/parse/parsetiger.yy:  // FIXME: Some code was deleted here.
+src/parse/scantiger.ll:  // FIXME: Some code was deleted here.
+src/parse/scantiger.ll:  /* FIXME: Some code was deleted here. */
+src/parse/scantiger.ll:  // FIXME: Some code was deleted here (Local variables).
+src/parse/scantiger.ll:  // FIXME: Some code was deleted here (Decode, and check the value).
+src/parse/tasks.cc:    // FIXME: Some code was deleted here.
+src/parse/tiger-parser.cc:    // FIXME: Some code was deleted here (Enable scan traces and link the scanner to the input).
+src/parse/tiger-parser.cc:    // FIXME: Some code was deleted here (Initialize the parser and enable parse traces).
+src/parse/tiger-parser.cc:    // FIXME: Some code was deleted here (Run the parser and close the scanner).

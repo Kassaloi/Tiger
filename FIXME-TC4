@@ -1,0 +1,75 @@
+lib/misc/graph.hxx:  // FIXED
+lib/misc/graph.hxx:  // FIXED
+lib/misc/set.hh:    // FIXED
+lib/misc/set.hxx:  // FIXED
+lib/misc/singleton.hh:    // FIXED
+src/ast/dumper-dot.cc:    // FIXME: Some code was deleted here (node_html_ports with properties).
+src/ast/typable.cc:  // FIXED
+src/ast/typable.hh:    // FIXED
+src/ast/typable.hxx:  // FIXED
+src/ast/type-constructor.cc:  // FIXED
+src/ast/type-constructor.hh:    // FIXED
+src/ast/type-constructor.hxx:  // FIXED
+src/astclone/cloner.cc:    // FIXED
+src/callgraph/call-graph-visitor.cc:    // FIXED: Some code was deleted here (Link the Caller with the CallExp's declaration).
+src/combine/binder.cc:  // FIXME: Some code was deleted here.
+src/combine/binder.hh:  // FIXME: Some code was deleted here (class Binder inheriting from object::Binder and overload::Binder).
+src/combine/libcombine.cc:// FIXME: Some code was deleted here.
+src/combine/libcombine.cc:    // FIXME: Some code was deleted here.
+src/combine/libcombine.cc:    // FIXME: Some code was deleted here.
+src/combine/tasks.cc:    // FIXME: Some code was deleted here (Call appropriate renaming tasks).
+src/combine/type-checker.cc:  // FIXME: Some code was deleted here.
+src/combine/type-checker.hh:  // FIXME: Some code was deleted here (class TypeChecker inheriting from overload::TypeChecker and object::TypeChecker).
+src/desugar/bounds-checking-visitor.cc:  // FIXED: Some code was deleted here.
+src/desugar/bounds-checking-visitor.hh:    // FIXED: Some code was deleted here.
+src/desugar/desugar-visitor.cc:    // FIXED: Some code was deleted here.
+src/desugar/desugar-visitor.cc:    // FIXED: Some code was deleted here.
+src/desugar/libdesugar.cc:    // FIXED: Some code was deleted here.
+src/desugar/tasks.hh:  // FIXED: Careful with this options (and with
+src/inlining/inliner.cc:  // FIXME: Some code was deleted here.  // NOT ON GIT
+src/inlining/inliner.hh:    // FIXME: Some code was deleted here.  // NOT ON GIT
+src/inlining/pruner.cc:  // FIXME: Some code was deleted here.  // NOT ON GIT
+src/inlining/pruner.hh:    // FIXME: Some code was deleted here.  // NOT ON GIT
+src/object/desugar-visitor.cc:      // FIXME: Some code was deleted here.
+src/object/libobject.cc:// FIXME: Some code was deleted here.
+src/object/libobject.hh:  // FIXME: Some code was deleted here.
+src/object/local.am:# FIXME: Add a test for object::Renamer.
+src/object/renamer.cc:    // FIXME: Some code was deleted here (Just recurse on children nodes).
+src/object/tasks.cc:  // FIXME: Some code was deleted here.
+src/object/tasks.hh:  // FIXME: Some code was deleted here.
+src/object/type-checker.cc:    // FIXME: Some code was deleted here.
+src/overload/binder.cc:    // FIXME: Some code was deleted here.
+src/overload/type-checker.cc:  // FIXME: Some code was deleted here.
+src/overload/type-checker.hh:    // FIXME: Some code was deleted here.
+src/task/task-register.cc:        // FIXME: for efficiency, resolve_dependency should be called once.  // NOT ON GIT
+src/task/task-register.cc:        // FIXME: detect cycle.  // NOT ON GIT
+src/task/task-register.cc:    // FIXME: should be the only one to call resolve_dependency.  // NOT ON GIT
+src/type/array.cc:  // FIXED
+src/type/array.hh:    // FIXED
+src/type/array.hxx:  // FIXED
+src/type/attribute.hxx:    // FIXED
+src/type/builtin-types.cc:  // FIXED
+src/type/builtin-types.hh:  // FIXED
+src/type/class.cc:    // FIXED
+src/type/class.hh:    // FIXED
+src/type/default-visitor.hxx:    // FIXED
+src/type/default-visitor.hxx:    // FIXED
+src/type/default-visitor.hxx:    // FIXED
+src/type/default-visitor.hxx:    // FIXED
+src/type/default-visitor.hxx:    // FIXED
+src/type/function.cc:  // FIXED
+src/type/function.hh:    // FIXED
+src/type/method.cc:  // FIXED
+src/type/method.hh:    // FIXED
+src/type/method.hxx:    // FIXED
+src/type/named.cc:  // FIXED
+src/type/named.hxx:    // FIXED
+src/type/nil.cc:    // FIXED
+src/type/pretty-printer.cc:    // FIXED
+src/type/record.cc:  // FIXED
+src/type/record.hh:    // FIXED
+src/type/type-checker.cc:    // FIXED
+src/type/type-checker.hh:    // FIXED
+src/type/type-checker.hxx:    // FIXED
+src/type/type.hxx:    // FIXED
+src/type/types.hh: // FIXED
